@@ -267,7 +267,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : osama,tech.#0184 ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`#Dev by osama,tech.#0184`,"http://twitch.tv/S-F")
+client.user.setGame(`#bot by  Mouna`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
